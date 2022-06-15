@@ -4,4 +4,8 @@ Git is a software that stores progress of code and enables to collaborate multip
 What is GitHub?
 It is place to store the work online so that others can view, download and edit (with permission) you work.
 
-HERE I MADE SOME CHANGES
+# Git Config
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+git remote add NAME_OF_REMOTE URI_OF_REMOTE
