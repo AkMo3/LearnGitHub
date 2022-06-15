@@ -1,0 +1,7 @@
+What is Git?
+Git is a software that stores progress of code and enables to collaborate multiple people on same code base.
+
+What is GitHub?
+It is place to store the work online so that others can view, download and edit (with permission) you work.
+
+
